@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Things that I like about CS193:
+- THe instructors are really funny and helpful
+- The course is very helpful for beginners 
 
 1. Numbered
 2. List
